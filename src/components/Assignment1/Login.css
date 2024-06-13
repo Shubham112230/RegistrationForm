@@ -1,0 +1,20 @@
+.heading{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.radio-label{
+    white-space: nowrap;
+    margin-right: 8px;
+}
+.radio-group{
+    display: flex;
+    align-items: center;
+
+}
+.gender{
+    margin-left: 5px;
+    text-align: center;
+    margin-right: 10px;
+}
